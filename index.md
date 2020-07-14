@@ -5,7 +5,7 @@ layout: default
 
 HIER STEHT TEXT VON STENNYDESIGNS
 JETZT KOMMT BILD: 
-![Branching](https://github.com/stennydesigns/stennydesigns.github.io/blob/master/P7080470%20(2).JPG)
+(https://github.com/stennydesigns/stennydesigns.github.io/blob/master/P7080470%20(2).JPG)
 DA WARS
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
