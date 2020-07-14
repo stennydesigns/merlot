@@ -9,6 +9,8 @@ Herzlich Willkommen auf der Website von StennyDesigns. Wir bieten Ihnen handgefe
 
 Wir bieten Ihnen jegliche Art von Sonderanfertigung. Für gewöhnlich nutzen wir Eichenholz für unsere Lampen, wir können Ihnen jedoch auch alle anderen Holzarten anbieten. Für Sonderanfertigungen können Sie uns jederzeit unter stennydesigns@gmail.com erreichen. 
 
+[EMAIL?](./mailto:stennydesigns@gmail.com).
+
 <a href="mailto:stennydesigns@gmail.com"</a>
 
 <img src="P7080485%20(2).JPG" alt="BILD">()
