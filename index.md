@@ -5,7 +5,7 @@ layout: default
 
 HIER STEHT TEXT VON STENNYDESIGNS
 JETZT KOMMT BILD: 
-<img src="https://github.com/stennydesigns/stennydesigns.github.io/blob/master/P7080470%20(2).JPG" alt="BILD">()
+<img src="P7080470%20(2).JPG" alt="BILD">()
 DA WARS
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
