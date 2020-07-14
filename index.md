@@ -2,12 +2,19 @@
 layout: default
 ---
 
+Herzlich Willkommen auf der Website von StennyDesigns. Wir bieten Ihnen handgefertigte Lampen aus hochwertigem Holz. 
 
-HIER STEHT TEXT VON STENNYDESIGNS
-JETZT KOMMT BILD: 
+
 <img src="P7080470%20(2).JPG" alt="BILD">()
-DA WARS
 
+Wir bieten Ihnen jegliche Art von Sonderanfertigung. Für gewöhnlich nutzen wir Eichenholz für unsere Lampen, wir können Ihnen jedoch auch alle anderen Holzarten anbieten. Für Sonderanfertigungen können Sie uns jederzeit unter stennydesigns@gmail.com erreichen. 
+
+<a href="mailto:stennydesigns@gmail.com"</a>
+
+<img src="P7080485%20(2).JPG" alt="BILD">()
+<img src="P7080495%20(2).JPG" alt="BILD">()
+<img src="P7080497%20(2).JPG" alt="BILD">()
+<img src="P7080505%20(2).JPG" alt="BILD">()
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
